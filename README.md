@@ -10,7 +10,6 @@ Just [download this repository](https://github.com/r1d/Php-cookies/archive/maste
 ### Usage
 ```php
 <?php
-// Autoload via Composer
 require 'vendor/autoload.php';
 
 use helpers\cook;
