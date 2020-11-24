@@ -1,6 +1,9 @@
 # Php-cookies
 PHP classe to easy manage cookies
 
+### Cloning with git
+git clone https://github.com/r1d/Php-cookies.git
+
 ### Cloning with composer
 Not Available yet.
 
