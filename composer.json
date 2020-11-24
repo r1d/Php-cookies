@@ -1,0 +1,26 @@
+{
+    "name": "r1d/Php-cookies",
+    "description": "Classe PHP for easy cookies management",
+    "version": "1.0.0",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "EDSI",
+            "email": "hello@edsi.fr",
+            "homepage": "https://edsi.fr",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "hello@edsi.fr",
+        "source": "https://github.com/r1d/Php-cookies",
+        "docs": "https://github.com/r1d/Php-cookies/README.md"
+    },
+    "autoload": {
+        "psr-4": {
+            "helpers\\": "helpers/"
+        }
+    },
+    "require": {}
+}
